@@ -1,1 +1,3 @@
-# MQTT_TLS_Performance
+# Project Creation
+
+- Create an empty project in PlatformIO in Visual Studio Code
