@@ -1,6 +1,6 @@
 # Project Creation
 
-- Create an empty project in PlatformIO in Visual Studio Code
+- Create an empty ESP8266 project in PlatformIO in Visual Studio Code
 - Modify the platformio.ini file as follows:
 
 [env:my_build_env]
