@@ -8,7 +8,7 @@ platform = espressif8266@1.8 \
 board = nodemcuv2 \
 framework = arduino \
 monitor_speed = 115200 \
-lib_deps = AsyncMqttClient \
+lib_deps = AsyncMqttClient 
 
 # Select Workload Pattern
 
